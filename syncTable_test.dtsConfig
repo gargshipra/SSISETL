@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="LAPTOP-F2U2KA8O\NIRMIT GARG" GeneratedFromPackageName="sychTable" GeneratedFromPackageID="{12DA1FB3-6558-4872-90FC-6C9A357957F9}" GeneratedDate="02-07-2020 09:54:30 PM"/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Connections[Database].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=LAPTOP-F2U2KA8O\SQLEXPRESS;Initial Catalog=test2;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>
